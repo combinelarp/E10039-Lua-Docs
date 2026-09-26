@@ -4,8 +4,7 @@
 
 Complete function reference for the shared Lua layer of the Blockman engine, extracted directly from the sources. Game-mode trees are out of scope; this document covers only the reusable framework that every mode builds on.
 
-- **Scope:** `D:/ClooberGO SOURCE!/BlockMango10039/Script/Common`
-- **Source root:** `D:/ClooberGO SOURCE!/BlockMango10039/Script`
+
 - **Generated:** 2026-09-26 16:47
 
 | Statistic | Count |
